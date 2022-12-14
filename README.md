@@ -44,3 +44,19 @@ Lot 3's t-test has resulted in a p-value of 0.04. Something has gone wrong with 
 
 ### What metric or metrics are you going to test?
 
+Some metrics that come to mind for testing are:
+- Price of car
+- Km/L (Fuel Efficiency)
+- Safety ratings
+- Customer ratings
+
+### What is the null hypothesis or alternative hypothesis?
+
+The proposed null hypothesis would be that the overall cost of the car is not influenced by other variables.
+On the other hand, the alternatice hypothesis is that the cost of the car is influenced by other variables.
+
+### What statistical test would you use to test the hypothesis? And why?
+Utilizing a linear regression model, as done previously, several variables can be factored in to determine whether or not they have any influence on the car's cost.
+
+### What data is needed to run the statistical test?
+The data required would be the same as the metrics mentioned previously. The sources will vary quite a bit, as there is a plethora of information out there. 
